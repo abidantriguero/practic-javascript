@@ -1,2 +1,2 @@
-# JavaScript Practico
-## Curso practico de JavaScrip
+# JavaScript Práctico
+## Curso práctico de JavaScript
